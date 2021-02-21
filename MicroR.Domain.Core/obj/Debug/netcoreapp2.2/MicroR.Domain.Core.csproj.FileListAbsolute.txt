@@ -1,0 +1,9 @@
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\bin\Debug\netcoreapp2.2\MicroR.Domain.Core.deps.json
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\bin\Debug\netcoreapp2.2\MicroR.Domain.Core.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\obj\Debug\netcoreapp2.2\MicroR.Domain.Core.csprojAssemblyReference.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\obj\Debug\netcoreapp2.2\MicroR.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\obj\Debug\netcoreapp2.2\MicroR.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\obj\Debug\netcoreapp2.2\MicroR.Domain.Core.AssemblyInfo.cs
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\bin\Debug\netcoreapp2.2\MicroR.Domain.Core.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\obj\Debug\netcoreapp2.2\MicroR.Domain.Core.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Domain.Core\obj\Debug\netcoreapp2.2\MicroR.Domain.Core.pdb

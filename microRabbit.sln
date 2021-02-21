@@ -3,9 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{EBA10997-A2BF-40EF-91E6-752F10A8F30E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{F1AC3102-8BC9-4BAB-9CD1-60E2A9A53C8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{DE2C19CE-24F9-4D2C-984C-B66D49D4E8FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{2D34BE65-8189-4EA3-8FFF-450CF1BA774A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BFA8885C-11AC-47D3-B0C9-99F094071C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroR.Domain.Core", "MicroR.Domain.Core\MicroR.Domain.Core.csproj", "{24C5CB08-4EE3-4C51-9EF5-00DD10A9AA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroR.Infra.Bus", "MicroR.Infra.Bus\MicroR.Infra.Bus.csproj", "{2AE2459B-096D-412D-9480-87B2434DFF89}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C5CB08-4EE3-4C51-9EF5-00DD10A9AA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C5CB08-4EE3-4C51-9EF5-00DD10A9AA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C5CB08-4EE3-4C51-9EF5-00DD10A9AA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C5CB08-4EE3-4C51-9EF5-00DD10A9AA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE2459B-096D-412D-9480-87B2434DFF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE2459B-096D-412D-9480-87B2434DFF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE2459B-096D-412D-9480-87B2434DFF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE2459B-096D-412D-9480-87B2434DFF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24C5CB08-4EE3-4C51-9EF5-00DD10A9AA9B} = {F1AC3102-8BC9-4BAB-9CD1-60E2A9A53C8D}
+		{2AE2459B-096D-412D-9480-87B2434DFF89} = {DE2C19CE-24F9-4D2C-984C-B66D49D4E8FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6EF68D31-B215-4601-B401-BA44138AAD7F}

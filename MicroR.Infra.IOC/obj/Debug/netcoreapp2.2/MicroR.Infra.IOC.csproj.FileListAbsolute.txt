@@ -1,0 +1,14 @@
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Infra.IOC.deps.json
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Infra.IOC.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.csprojAssemblyReference.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.csproj.CoreCompileInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.AssemblyInfoInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.AssemblyInfo.cs
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Infra.IOC.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Domain.Core.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Infra.Bus.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Infra.Bus.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\bin\Debug\netcoreapp2.2\MicroR.Domain.Core.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Infra.IOC\obj\Debug\netcoreapp2.2\MicroR.Infra.IOC.csproj.CopyComplete

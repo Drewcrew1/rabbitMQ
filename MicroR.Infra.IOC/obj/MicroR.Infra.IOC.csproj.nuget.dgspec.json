@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.IOC\\MicroR.Infra.IOC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Domain.Core\\MicroR.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Domain.Core\\MicroR.Domain.Core.csproj",
+        "projectName": "MicroR.Domain.Core",
+        "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Domain.Core\\MicroR.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.Bus\\MicroR.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.Bus\\MicroR.Infra.Bus.csproj",
+        "projectName": "MicroR.Infra.Bus",
+        "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.Bus\\MicroR.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Domain.Core\\MicroR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Domain.Core\\MicroR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.IOC\\MicroR.Infra.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.IOC\\MicroR.Infra.IOC.csproj",
+        "projectName": "MicroR.Infra.IOC",
+        "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.IOC\\MicroR.Infra.IOC.csproj",
+        "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.Bus\\MicroR.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Infra.Bus\\MicroR.Infra.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\bin\Debug\netcoreapp2.2\MicroR.Banking.Application.deps.json
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\bin\Debug\netcoreapp2.2\MicroR.Banking.Application.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\bin\Debug\netcoreapp2.2\MicroR.Banking.Application.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.AssemblyInfo.cs
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.csprojAssemblyReference.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\bin\Debug\netcoreapp2.2\MicroR.Banking.Domain.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\bin\Debug\netcoreapp2.2\MicroR.Banking.Domain.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MicroR.Banking.Application\obj\Debug\netcoreapp2.2\MicroR.Banking.Application.csproj.CopyComplete

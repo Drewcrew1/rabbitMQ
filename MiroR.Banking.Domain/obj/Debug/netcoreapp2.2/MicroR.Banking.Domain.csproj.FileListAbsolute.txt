@@ -1,0 +1,9 @@
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\bin\Debug\netcoreapp2.2\MicroR.Banking.Domain.deps.json
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\bin\Debug\netcoreapp2.2\MicroR.Banking.Domain.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\bin\Debug\netcoreapp2.2\MicroR.Banking.Domain.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\obj\Debug\netcoreapp2.2\MicroR.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\obj\Debug\netcoreapp2.2\MicroR.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\obj\Debug\netcoreapp2.2\MicroR.Banking.Domain.AssemblyInfo.cs
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\obj\Debug\netcoreapp2.2\MicroR.Banking.Domain.dll
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\obj\Debug\netcoreapp2.2\MicroR.Banking.Domain.pdb
+C:\Users\drew\Desktop\dotnet\microRabbit\MiroR.Banking.Domain\obj\Debug\netcoreapp2.2\MicroR.Banking.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Banking.Data\\MicroR.Banking.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Banking.Data\\MicroR.Banking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Banking.Data\\MicroR.Banking.Data.csproj",
+        "projectName": "MicroR.Banking.Data",
+        "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Banking.Data\\MicroR.Banking.Data.csproj",
+        "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MicroR.Banking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MiroR.Banking.Domain\\MicroR.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MiroR.Banking.Domain\\MicroR.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MiroR.Banking.Domain\\MicroR.Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MiroR.Banking.Domain\\MicroR.Banking.Domain.csproj",
+        "projectName": "MicroR.Banking.Domain",
+        "projectPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MiroR.Banking.Domain\\MicroR.Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drew\\Desktop\\dotnet\\microRabbit\\MiroR.Banking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -5,11 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MicroR.Banking.Application\MicroR.Banking.Application.csproj" />
+    <ProjectReference Include="..\MicroR.Banking.Data\MicroR.Banking.Data.csproj" />
     <ProjectReference Include="..\MicroR.Infra.Bus\MicroR.Infra.Bus.csproj" />
+    <ProjectReference Include="..\MicroR.Transfer.Application\MicroR.Transfer.Application.csproj" />
+    <ProjectReference Include="..\MicroR.Transfer.Data\MicroR.Transfer.Data.csproj" />
   </ItemGroup>
 
 </Project>

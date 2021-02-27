@@ -5,11 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="EventHandlers\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MicroR.Domain.Core\MicroR.Domain.Core.csproj" />
+    <ProjectReference Include="..\MicroR.Transfer.Domain\MicroR.Transfer.Domain.csproj" />
   </ItemGroup>
 
 </Project>
